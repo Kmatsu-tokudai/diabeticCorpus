@@ -24,7 +24,6 @@
 - I-睡眠
 - B-検査
 - I-検査
-- B-HbA1c
 - B-emotion_up
 - I-emotion_up
 - B-emotion_down
