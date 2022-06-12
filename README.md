@@ -35,7 +35,7 @@
 - B-HbA1c
 - I-HbA1c
 
-<img src="images/diabeticSysDemo20220612.gif" width=200>
+<img src="images/diabeticSysDemo20220612.gif" width=500>
 
 本データセットを研究で利用された場合、
 論文情報をご連絡いただきましたらここに掲載させていただきます。
