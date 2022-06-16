@@ -35,6 +35,7 @@
 - B-HbA1c
 - I-HbA1c
 
+## 本データセットをもとに作成したキーワードの共起を可視化するシステムのデモ
 <img src="images/diabeticSysDemo20220616.gif" width=500>
 
 本データセットを研究で利用された場合、
