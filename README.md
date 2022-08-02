@@ -47,6 +47,8 @@
 
 ## 連絡先
 #### [松本和幸](matumoto@is.tokushima-u.ac.jp) （徳島大学大学院社会産業理工学研究部准教授）
+https://researchmap.jp/read0156851
+https://www-a2.is.tokushima-u.ac.jp/research
 
 -----------
 
